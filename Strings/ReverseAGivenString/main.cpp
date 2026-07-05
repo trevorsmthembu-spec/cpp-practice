@@ -21,8 +21,8 @@ int main ()
     cout << "\nReversed string: ";
     reverseString(text); //Displaying the reversed string
 
-    
-    cout << "Original String: " << name; //Displaying the original string
+
+    cout << "\nOriginal String: " << name; //Displaying the original string
     cout << "\nReversed string: ";
     reverseString(name); //Displaying the reversed string
 
